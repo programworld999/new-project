@@ -1,8 +1,59 @@
-{  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
- "city" : "NYC",
- "region": "Unknown"
-  }
+{
+    "ip": "223.191.50.137",
+    "is_eu": false,
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "region_code": "WB",
+    "country_name": "India",
+    "country_code": "IN",
+    "continent_name": "Asia",
+    "continent_code": "AS",
+    "latitude": 22.572,
+    "longitude": 88.367,
+    "asn": "AS45609",
+    "organisation": "Bharti Airtel Ltd. AS for GPRS Service",
+    "postal": "700019",
+    "calling_code": "91",
+    "flag": "https://ipdata.co/flags/in.png",
+    "emoji_flag": "\ud83c\uddee\ud83c\uddf3",
+    "emoji_unicode": "U+1F1EE U+1F1F3",
+    "carrier": {
+        "name": "AirTel",
+        "mcc": "404",
+        "mnc": "02"
+    },
+    "languages": [
+        {
+            "name": "Hindi",
+            "native": "\u0939\u093f\u0928\u094d\u0926\u0940"
+        },
+        {
+            "name": "English",
+            "native": "English"
+        }
+    ],
+    "currency": {
+        "name": "Indian Rupee",
+        "code": "INR",
+        "symbol": "Rs",
+        "native": "\u099f\u0995\u09be",
+        "plural": "Indian rupees"
+    },
+    "time_zone": {
+        "name": "Asia/Kolkata",
+        "abbr": "IST",
+        "offset": "+0530",
+        "is_dst": false,
+        "current_time": "2019-03-22T13:29:39.799056+05:30"
+    },
+    "threat": {
+        "is_tor": false,
+        "is_proxy": false,
+        "is_anonymous": false,
+        "is_known_attacker": false,
+        "is_known_abuser": false,
+        "is_threat": false,
+        "is_bogon": false
+    },
+    "count": "1518"
+}

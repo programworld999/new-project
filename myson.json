@@ -3,4 +3,6 @@
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
+ "city" : "NYC",
+ "region": "Unknown"
   }
